@@ -1,9 +1,0 @@
-.card-list {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-}
-
-.title {
-    margin-top: 30px;
-}
