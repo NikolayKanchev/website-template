@@ -1,0 +1,23 @@
+.best-value {
+    position: absolute;
+    margin-top: -20px;
+    background-color: #f50057;
+    width: 244px;
+    height: 30px;
+}
+
+.hidden{
+    visibility: hidden;
+}
+
+@media(min-width: 1317px){
+    .hidden {
+        display: none;
+    }
+}
+
+@media(max-width: 991px){
+    .hidden {
+        display: none;
+    }
+}

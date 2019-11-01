@@ -1,0 +1,12 @@
+.link {
+    text-decoration: none;
+    color: inherit;
+}
+
+.grid-container {
+    margin-top: 10px;
+}
+
+.grid-item-left {
+    text-align: left;
+}

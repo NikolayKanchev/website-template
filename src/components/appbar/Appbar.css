@@ -1,0 +1,14 @@
+.mobile-menu {
+    display: none;
+    margin-right: 30px;
+    margin-top: -4px;
+}
+
+@media(max-width: 1100px){
+    .tabs {
+        display: none;
+    }
+    .mobile-menu {
+        display: inline;
+    }
+}
