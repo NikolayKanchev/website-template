@@ -1,7 +1,7 @@
 {
   "name": "website",
   "version": "0.1.0",
-  "homepage": "https://NikolayKanchev.github.io/website/",
+  "homepage": "https://NikolayKanchev.github.io/website-template/",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.5.2",
